@@ -1,0 +1,10 @@
+.borders{
+    border-style: inset;
+    border-width: 7px;
+    border-color: coral;
+}
+#box {
+    height: 600px;
+    background-color:#FFFFFF;
+    overflow-y: auto; /* showing scrollbars */
+}
